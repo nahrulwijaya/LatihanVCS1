@@ -10,9 +10,9 @@
 
 * Download git terlebih dahulu dengan link berikut [click here](https://git-scm.com/)
 
-![here](fr/here.png)
+![gitscm](fr/gitscm.png)
 
 * Setelah file terdownload, silahkan instalasi dengan referensi berikut ini : [Git installation guide](https://git-scm.com/book/en/v2)
 
-![3](fr/3.png)
+![installing](fr/installing.png)
 
